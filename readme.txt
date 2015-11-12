@@ -10,3 +10,6 @@ creating a new branch is quick and simple
 branch from zhangwen
 
 test fro no ff
+ i
+
+chang my name
