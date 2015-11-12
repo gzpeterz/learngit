@@ -5,6 +5,6 @@ Git has a mutable index called stage
 Git tracks changes.
  test push 
 
-creating a new branch is quick & smple
+creating a new branch is quick and simple
 
 branch from zhangwen
