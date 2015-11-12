@@ -10,3 +10,5 @@ creating a new branch is quick
 branch from zhangwen
 
 test fro no ff
+
+add /usr/bin/env
