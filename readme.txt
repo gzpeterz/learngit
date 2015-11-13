@@ -13,3 +13,5 @@ test fro no ff
  i
 
 chang my name
+
+add /usr/bin/env
