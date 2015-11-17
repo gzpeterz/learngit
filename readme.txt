@@ -2,6 +2,7 @@ Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 
 Git has a mutable index called stage
+one line
 Git tracks changes.
  test push 
 
@@ -15,3 +16,5 @@ test fro no ff
 chang my name
 
 add /usr/bin/env
+
+two line
